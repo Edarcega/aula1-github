@@ -8,6 +8,7 @@ public class Program {
 
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Hello world");
+		System.out.println("Teste 1");
 		sc.close();
 
 	}
